@@ -1,0 +1,6 @@
+@MonitorImpresorasAPI_HostAddress = http://localhost:5014
+
+GET {{MonitorImpresorasAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,33 @@
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\bin\Debug\net8.0\Dominio.deps.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\bin\Debug\net8.0\Dominio.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\bin\Debug\net8.0\Dominio.pdb
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.pdb
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+D:\MonitorImpresoras\Dominio\bin\Debug\net8.0\Dominio.deps.json
+D:\MonitorImpresoras\Dominio\bin\Debug\net8.0\Dominio.dll
+D:\MonitorImpresoras\Dominio\bin\Debug\net8.0\Dominio.pdb
+D:\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+D:\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+D:\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+D:\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.dll
+D:\MonitorImpresoras\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+D:\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.pdb
+D:\MonitorImpresoras\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Debug\net8.0\ref\Dominio.dll

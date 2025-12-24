@@ -1,0 +1,806 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\services\\printerrealtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\services\\printerrealtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\interfaces\\iprinterrealtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iprinterrealtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\monitorimpresorasapi\\controllers\\printersrealtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|solutionrelative:monitorimpresorasapi\\controllers\\printersrealtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\monitorimpresorasapi\\controllers\\printerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|solutionrelative:monitorimpresorasapi\\controllers\\printerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\services\\printerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\services\\printerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\interfaces\\iprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\infrastructure\\repositories\\printerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\printerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\interfaces\\iprinterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfaces\\iprinterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\.env.development||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\.env.development||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\src\\utils\\statushelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\src\\utils\\statushelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\src\\pages\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\src\\pages\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\src\\hooks\\useprinters.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\src\\hooks\\useprinters.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\src\\components\\printerrow.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\src\\components\\printerrow.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\src\\components\\loadingspinner.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\src\\components\\loadingspinner.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\src\\components\\filters.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\src\\components\\filters.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\reactimpresoras\\.env.production||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7E7E334-BA35-B81C-78B2-BE09DDF5F1D3}|reactImpresoras\\reactimpresoras.esproj|solutionrelative:reactimpresoras\\.env.production||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\dtos\\printerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\printerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\entities\\printermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\printermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\entities\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\monitorimpresorasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|solutionrelative:monitorimpresorasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\infrastructure\\externalservices\\snmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\externalservices\\snmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\infrastructure\\hubs\\printerhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\hubs\\printerhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\dtos\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\infrastructure\\services\\printerhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\printerhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\monitorimpresorasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|solutionrelative:monitorimpresorasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\monitorimpresorasapi\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|solutionrelative:monitorimpresorasapi\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\monitorimpresorasapi\\monitorimpresorasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B36B625E-7E1A-D725-3FF5-8A45F2C2C1B9}|MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj|solutionrelative:monitorimpresorasapi\\monitorimpresorasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\interfaces\\isnmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\isnmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\interfaces\\iprinterhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iprinterhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\interfaces\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\infrastructure\\repositories\\printermodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\printermodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\infrastructure\\repositories\\oidconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\oidconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\infrastructure\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\interfaces\\iprintermodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfaces\\iprintermodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\interfaces\\ioidconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfaces\\ioidconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\entities\\printerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\printerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\application\\dtos\\printermodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\printermodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\entities\\valueobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\valueobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|d:\\users\\pablo santana\\source\\repos\\monitorimpresoras\\dominio\\entities\\oidconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\oidconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 181,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrintersController.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\Controllers\\PrintersController.cs",
+              "RelativeDocumentMoniker": "MonitorImpresorasAPI\\Controllers\\PrintersController.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\Controllers\\PrintersController.cs",
+              "RelativeToolTip": "MonitorImpresorasAPI\\Controllers\\PrintersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:48:56.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrinterRealtimeService.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Services\\PrinterRealtimeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PrinterRealtimeService.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Services\\PrinterRealtimeService.cs",
+              "RelativeToolTip": "Application\\Services\\PrinterRealtimeService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:34:13.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintersRealtimeController.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\Controllers\\PrintersRealtimeController.cs",
+              "RelativeDocumentMoniker": "MonitorImpresorasAPI\\Controllers\\PrintersRealtimeController.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\Controllers\\PrintersRealtimeController.cs",
+              "RelativeToolTip": "MonitorImpresorasAPI\\Controllers\\PrintersRealtimeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:38:17.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrinterRealtimeService.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Interfaces\\IPrinterRealtimeService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPrinterRealtimeService.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Interfaces\\IPrinterRealtimeService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPrinterRealtimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:33:51.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrinterService.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Services\\PrinterService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PrinterService.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Services\\PrinterService.cs",
+              "RelativeToolTip": "Application\\Services\\PrinterService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:32:42.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrinterService.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Interfaces\\IPrinterService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPrinterService.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Interfaces\\IPrinterService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPrinterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:31:17.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrinterRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Repositories\\PrinterRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PrinterRepository.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Repositories\\PrinterRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PrinterRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:43:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPrinterRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Interfaces\\IPrinterRepository.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\IPrinterRepository.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Interfaces\\IPrinterRepository.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\IPrinterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:38:31.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PrinterModel.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\PrinterModel.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\PrinterModel.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\PrinterModel.cs",
+              "RelativeToolTip": "Dominio\\Entities\\PrinterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:15:02.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\Printer.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\Printer.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\Printer.cs",
+              "RelativeToolTip": "Dominio\\Entities\\Printer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:14:18.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MonitorImpresorasAPI\\Program.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\Program.cs",
+              "RelativeToolTip": "MonitorImpresorasAPI\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:50:22.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PrinterDto.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\DTOs\\PrinterDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PrinterDto.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\DTOs\\PrinterDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\PrinterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:23:54.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SnmpService.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\ExternalServices\\SnmpService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ExternalServices\\SnmpService.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\ExternalServices\\SnmpService.cs",
+              "RelativeToolTip": "Infrastructure\\ExternalServices\\SnmpService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:45:36.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PrinterHub.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Hubs\\PrinterHub.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Hubs\\PrinterHub.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Hubs\\PrinterHub.cs",
+              "RelativeToolTip": "Infrastructure\\Hubs\\PrinterHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:35:58.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LocationDto.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\DTOs\\LocationDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LocationDto.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\DTOs\\LocationDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LocationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:29:28.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PrinterHubService.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Services\\PrinterHubService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\PrinterHubService.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Services\\PrinterHubService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\PrinterHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:36:27.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MonitorImpresorasAPI\\appsettings.json",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\appsettings.json",
+              "RelativeToolTip": "MonitorImpresorasAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T23:19:22.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "MonitorImpresorasAPI\\Controllers\\LocationsController.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "MonitorImpresorasAPI\\Controllers\\LocationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:49:49.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MonitorImpresorasAPI.csproj",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj",
+              "RelativeDocumentMoniker": "MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj",
+              "RelativeToolTip": "MonitorImpresorasAPI\\MonitorImpresorasAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-18T22:48:22.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ISnmpService.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Interfaces\\ISnmpService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ISnmpService.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Interfaces\\ISnmpService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ISnmpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:30:21.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IPrinterHubService.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Interfaces\\IPrinterHubService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPrinterHubService.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Interfaces\\IPrinterHubService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPrinterHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:34:45.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\LocationService.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Services\\LocationService.cs",
+              "RelativeToolTip": "Application\\Services\\LocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:38:59.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".env.development",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\.env.development",
+              "RelativeDocumentMoniker": "reactimpresoras\\.env.development",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\.env.development",
+              "RelativeToolTip": "reactimpresoras\\.env.development",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-19T00:02:21.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.jsx",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\pages\\Dashboard.jsx",
+              "RelativeDocumentMoniker": "reactimpresoras\\src\\pages\\Dashboard.jsx",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\pages\\Dashboard.jsx",
+              "RelativeToolTip": "reactimpresoras\\src\\pages\\Dashboard.jsx",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-19T00:03:56.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoadingSpinner.jsx",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\components\\LoadingSpinner.jsx",
+              "RelativeDocumentMoniker": "reactimpresoras\\src\\components\\LoadingSpinner.jsx",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\components\\LoadingSpinner.jsx",
+              "RelativeToolTip": "reactimpresoras\\src\\components\\LoadingSpinner.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-19T00:04:41.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "usePrinters.jsx",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\hooks\\usePrinters.jsx",
+              "RelativeDocumentMoniker": "reactimpresoras\\src\\hooks\\usePrinters.jsx",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\hooks\\usePrinters.jsx",
+              "RelativeToolTip": "reactimpresoras\\src\\hooks\\usePrinters.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-19T00:05:01.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactimpresoras\\src\\App.jsx",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\App.jsx",
+              "RelativeToolTip": "reactimpresoras\\src\\App.jsx",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-19T00:06:52.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ILocationService.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Interfaces\\ILocationService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ILocationService.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\Interfaces\\ILocationService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ILocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:31:44.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.jsx",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\main.jsx",
+              "RelativeDocumentMoniker": "reactimpresoras\\src\\main.jsx",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\main.jsx",
+              "RelativeToolTip": "reactimpresoras\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-19T00:07:35.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Filters.jsx",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\components\\Filters.jsx",
+              "RelativeDocumentMoniker": "reactimpresoras\\src\\components\\Filters.jsx",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\components\\Filters.jsx",
+              "RelativeToolTip": "reactimpresoras\\src\\components\\Filters.jsx",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-19T00:04:40.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\eslint.config.js",
+              "RelativeDocumentMoniker": "reactimpresoras\\eslint.config.js",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\eslint.config.js",
+              "RelativeToolTip": "reactimpresoras\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-19T00:09:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrinterRow.jsx",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\components\\PrinterRow.jsx",
+              "RelativeDocumentMoniker": "reactimpresoras\\src\\components\\PrinterRow.jsx",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\components\\PrinterRow.jsx",
+              "RelativeToolTip": "reactimpresoras\\src\\components\\PrinterRow.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-19T00:03:07.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "statusHelpers.js",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\utils\\statusHelpers.js",
+              "RelativeDocumentMoniker": "reactimpresoras\\src\\utils\\statusHelpers.js",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\src\\utils\\statusHelpers.js",
+              "RelativeToolTip": "reactimpresoras\\src\\utils\\statusHelpers.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-19T00:02:51.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".env.production",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\.env.production",
+              "RelativeDocumentMoniker": "reactimpresoras\\.env.production",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\reactimpresoras\\.env.production",
+              "RelativeToolTip": "reactimpresoras\\.env.production",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-19T00:02:40.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PrinterModelRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Repositories\\PrinterModelRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PrinterModelRepository.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Repositories\\PrinterModelRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PrinterModelRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:44:38.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OidConfigurationRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Repositories\\OidConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\OidConfigurationRepository.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Repositories\\OidConfigurationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\OidConfigurationRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:44:09.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:40:51.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Repositories\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\LocationRepository.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Infrastructure\\Repositories\\LocationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\LocationRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:43:47.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IPrinterModelRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Interfaces\\IPrinterModelRepository.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\IPrinterModelRepository.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Interfaces\\IPrinterModelRepository.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\IPrinterModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:21:31.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IOidConfigurationRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Interfaces\\IOidConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\IOidConfigurationRepository.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Interfaces\\IOidConfigurationRepository.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\IOidConfigurationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:21:07.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PrinterStatus.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\PrinterStatus.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\PrinterStatus.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\PrinterStatus.cs",
+              "RelativeToolTip": "Dominio\\Entities\\PrinterStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:16:55.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Interfaces\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\ILocationRepository.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Interfaces\\ILocationRepository.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\ILocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:20:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\Location.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\Location.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\Location.cs",
+              "RelativeToolTip": "Dominio\\Entities\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:15:37.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PrinterModelDto.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\DTOs\\PrinterModelDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PrinterModelDto.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Application\\DTOs\\PrinterModelDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\PrinterModelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:28:12.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Dominio.csproj",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Dominio.csproj",
+              "RelativeDocumentMoniker": "Dominio\\Dominio.csproj",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Dominio.csproj",
+              "RelativeToolTip": "Dominio\\Dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-18T22:20:25.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ValueObjects.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\ValueObjects.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\ValueObjects.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\ValueObjects.cs",
+              "RelativeToolTip": "Dominio\\Entities\\ValueObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:16:18.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OidConfiguration.cs",
+              "DocumentMoniker": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\OidConfiguration.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\OidConfiguration.cs",
+              "ToolTip": "D:\\Users\\Pablo Santana\\source\\repos\\MonitorImpresoras\\Dominio\\Entities\\OidConfiguration.cs",
+              "RelativeToolTip": "Dominio\\Entities\\OidConfiguration.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA3wBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:15:55.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

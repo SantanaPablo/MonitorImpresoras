@@ -1,0 +1,45 @@
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\bin\Debug\net8.0\Application.deps.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\bin\Debug\net8.0\Application.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\bin\Debug\net8.0\Application.pdb
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\bin\Debug\net8.0\Dominio.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\bin\Debug\net8.0\Dominio.pdb
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\obj\Debug\net8.0\Application.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\obj\Debug\net8.0\Application.pdb
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\Application\obj\Debug\net8.0\ref\Application.dll
+D:\MonitorImpresoras\Application\bin\Debug\net8.0\Application.deps.json
+D:\MonitorImpresoras\Application\bin\Debug\net8.0\Application.dll
+D:\MonitorImpresoras\Application\bin\Debug\net8.0\Application.pdb
+D:\MonitorImpresoras\Application\bin\Debug\net8.0\Dominio.dll
+D:\MonitorImpresoras\Application\bin\Debug\net8.0\Dominio.pdb
+D:\MonitorImpresoras\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\MonitorImpresoras\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonitorImpresoras\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\MonitorImpresoras\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\MonitorImpresoras\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\MonitorImpresoras\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\MonitorImpresoras\Application\obj\Debug\net8.0\Application.dll
+D:\MonitorImpresoras\Application\obj\Debug\net8.0\refint\Application.dll
+D:\MonitorImpresoras\Application\obj\Debug\net8.0\Application.pdb
+D:\MonitorImpresoras\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\bin\Debug\net8.0\Application.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\obj\Debug\net8.0\Application.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Application\obj\Debug\net8.0\ref\Application.dll

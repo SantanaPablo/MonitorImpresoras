@@ -1,0 +1,121 @@
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\appsettings.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.staticwebassets.endpoints.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.exe
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.deps.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.runtimeconfig.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.pdb
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\SharpSnmpLib.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MySqlConnector.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Application.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Dominio.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Infrastructure.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Application.pdb
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Infrastructure.pdb
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Dominio.pdb
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.csproj.AssemblyReference.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.AssemblyInfoInputs.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.AssemblyInfo.cs
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.csproj.CoreCompileInputs.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\scopedcss\bundle\MonitorImpresorasAPI.styles.css
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\swae.build.ex.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorI.0A536A24.Up2Date
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\refint\MonitorImpresorasAPI.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.pdb
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.genruntimeconfig.cache
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\ref\MonitorImpresorasAPI.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Pablo Santana\source\repos\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.staticwebassets.endpoints.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.exe
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.deps.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.runtimeconfig.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MonitorImpresorasAPI.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\SharpSnmpLib.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Application.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Application.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\scopedcss\bundle\MonitorImpresorasAPI.styles.css
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorI.0A536A24.Up2Date
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\refint\MonitorImpresorasAPI.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\ref\MonitorImpresorasAPI.dll
