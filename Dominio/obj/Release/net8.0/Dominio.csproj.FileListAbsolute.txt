@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\bin\Release\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\bin\Release\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\bin\Release\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Release\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Release\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Release\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Release\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Release\net8.0\Dominio.sourcelink.json
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Release\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Release\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Release\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\MonitorImpresoras\Dominio\obj\Release\net8.0\ref\Dominio.dll

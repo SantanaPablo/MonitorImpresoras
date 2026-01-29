@@ -226,7 +226,7 @@ namespace Application.Services
 
         private int? ValidateLevel(int? level)
         {
-            return level <= 0 ? null : level;
+            return level < 0 ? null : level;
         }
     }
 }

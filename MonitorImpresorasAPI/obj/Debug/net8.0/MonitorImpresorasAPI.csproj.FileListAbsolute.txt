@@ -119,3 +119,4 @@ C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0
 C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.pdb
 C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.genruntimeconfig.cache
 C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\ref\MonitorImpresorasAPI.dll
+C:\Users\USUARIO\Desktop\MonitorImpresoras\MonitorImpresorasAPI\obj\Debug\net8.0\MonitorImpresorasAPI.sourcelink.json
