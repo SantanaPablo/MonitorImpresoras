@@ -4,52 +4,61 @@ using Dominio.Interfaces;
 using Infrastructure.Repositories;
 using Application.Interfaces;
 using Application.Services;
+using Infrastructure.Services;
 using Infrastructure.ExternalServices;
 using Infrastructure.Hubs;
-using Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+const string CorsPolicy = "AllowAll";
 
-// DbContext
+// BASE DE DATOS
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
 });
 
-// Repositorios
+// REPOSITORIOS
+
 builder.Services.AddScoped<IPrinterRepository, PrinterRepository>();
 builder.Services.AddScoped<ILocationRepository, LocationRepository>();
 builder.Services.AddScoped<IOidConfigurationRepository, OidConfigurationRepository>();
 builder.Services.AddScoped<IPrinterModelRepository, PrinterModelRepository>();
 
-// Servicios de Aplicación
+// SERVICIOS
 builder.Services.AddScoped<IPrinterService, PrinterService>();
 builder.Services.AddScoped<ILocationService, LocationService>();
 builder.Services.AddScoped<IPrinterRealtimeService, PrinterRealtimeService>();
-
-// Servicios Externos
 builder.Services.AddScoped<ISnmpService, SnmpService>();
 builder.Services.AddScoped<IPrinterHubService, PrinterHubService>();
 
-// SignalR - NUEVO
+// SIGNALR, CONTROLLERS Y SWAGGER
 builder.Services.AddSignalR();
-
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// cors
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAll", policy =>
+    options.AddPolicy(CorsPolicy, policy =>
     {
-        policy.WithOrigins("http://localhost:5173", "http://localhost:5000", "http://10.35.144.252:5000", "http://10.35.144.252")
-              .AllowAnyMethod()
+
+        var allowedOrigins = builder.Configuration.GetSection("CorsSettings:AllowedOrigins").Get<string[]>();
+
+        if (allowedOrigins != null && allowedOrigins.Length > 0)
+        {
+            policy.WithOrigins(allowedOrigins);
+        }
+
+        policy.AllowAnyMethod()
               .AllowAnyHeader()
-              .AllowCredentials(); 
+              .AllowCredentials();
     });
 });
 
+//
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -59,7 +68,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.UseCors("AllowAll");
+app.UseCors(CorsPolicy);
 app.UseAuthorization();
 
 app.MapControllers();
